@@ -1,14 +1,17 @@
 # 🧮 BMI Calculator (Streamlit)
 
-A tiny web app that calculates adult Body Mass Index (BMI) using either metric or imperial units. BMI is a screening tool for adults only and not a diagnostic measure.
+A tiny web app that calculates adult Body Mass Index (BMI) from metric or imperial inputs. BMI is a screening tool for adults and not a diagnostic measure.
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://devipravallikakarry-bmi-calculator-app.streamlit.app/)
 
 ## ✨ Features
 - 🔁 Unit toggle: Metric (kg, cm) or Imperial (lb, in)
 - ✅ Input validation for positive values
-- 📊 Instant BMI result with category label
+- 📊 Instant BMI with category label
 
 ## 🖼️ Screenshot
-![App Screenshot](BMI_Calculator.png)
+Place a screenshot at `assets/screenshot.png`, then it will render here:
+![App Screenshot](assets/screenshot.png)
 
 ## 🚀 Run locally
 1) Create and activate a virtual environment (recommended).  
