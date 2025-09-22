@@ -8,8 +8,7 @@ A tiny web app that calculates adult Body Mass Index (BMI) using either metric o
 - 📊 Instant BMI result with category label
 
 ## 🖼️ Screenshot
-Place a screenshot image at `assets/screenshot.png`, then it will render here:
-![App Screenshot](assets/screenshot.png)
+![App Screenshot](BMI_Calculator.png)
 
 ## 🚀 Run locally
 1) Create and activate a virtual environment (recommended).  
