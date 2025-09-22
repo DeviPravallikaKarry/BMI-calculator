@@ -43,3 +43,7 @@ streamlit run app.py
 - Edit `app.py` while the app runs; the browser refreshes on save.
 - Keep your virtual environment out of version control via `.gitignore` (e.g., `.venv/`, `venv/`).
 
+## 🙌 Acknowledgments
+Built with Streamlit and common adult BMI reference ranges.
+
+
