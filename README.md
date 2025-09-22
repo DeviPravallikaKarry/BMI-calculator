@@ -24,7 +24,7 @@ A tiny web app that calculates adult Body Mass Index (BMI) from metric or imperi
  ```bash
 pip install -r requirements.txt
  ```
-4) Start the app:
+3) Start the app:
 ```bash
 streamlit run app.py
 ```
