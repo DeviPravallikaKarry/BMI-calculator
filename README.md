@@ -10,7 +10,7 @@ A tiny web app that calculates adult Body Mass Index (BMI) from metric or imperi
 - 📊 Instant BMI with category label
 
 ## 🖼️ Screenshot
-![App Screenshot](assets/screenshot.png)
+![App Screenshot](BMI_Calculator.png)
 
 ## 🚀 Run locally
 1) Create and activate a virtual environment (recommended).  
