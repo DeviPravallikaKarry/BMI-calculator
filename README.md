@@ -4,13 +4,19 @@
 
 A tiny web app that calculates adult Body Mass Index (BMI) from metric or imperial inputs. BMI is a screening tool for adults and not a diagnostic measure.
 
+---
+
 ## ✨ Features
 - 🔁 Unit toggle: Metric (kg, cm) or Imperial (lb, in)
 - ✅ Input validation for positive values
 - 📊 Instant BMI with category label
 
+---
+
 ## 🖼️ Screenshot
 ![App Screenshot](BMI_Calculator.png)
+
+---
 
 ## 🚀 Run locally
 1) Create and activate a virtual environment (recommended).  
@@ -19,9 +25,13 @@ pip install -r requirements.txt
 3) Start the app:
 streamlit run app.py
 
+---
+
 ## 📐 Formulas
 - Metric: BMI = kg / (m^2)  
 - Imperial: BMI = (lb × 703) / (in^2)
+
+---
 
 ## 🧭 Adult categories
 - Underweight: < 18.5  
@@ -31,13 +41,19 @@ streamlit run app.py
 - Obesity (Class II): 35–39.9  
 - Obesity (Class III): ≥ 40
 
+---
+
 ## 🗂️ Project structure
-.
+
+```
 ├── app.py
 ├── requirements.txt
 ├── README.md
 └── assets/
 └── screenshot.png
+
+```
+---
 
 ## 🛠️ Notes
 - Edit `app.py` while the app runs; the browser refreshes on save.
