@@ -50,13 +50,11 @@ streamlit run app.py
 ## 🗂️ Project structure
 
 ```
-.
 ├── app.py
 ├── requirements.txt
 ├── README.md
 └── assets/
     └── screenshot.png
-
 ```
 ---
 
