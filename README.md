@@ -21,9 +21,13 @@ A tiny web app that calculates adult Body Mass Index (BMI) from metric or imperi
 ## 🚀 Run locally
 1) Create and activate a virtual environment (recommended).  
 2) Install dependencies:
+ ```bash
 pip install -r requirements.txt
-3) Start the app:
+ ```
+4) Start the app:
+```bash
 streamlit run app.py
+```
 
 ---
 
@@ -51,7 +55,6 @@ streamlit run app.py
 ├── README.md
 └── assets/
 └── screenshot.png
-
 ```
 ---
 
