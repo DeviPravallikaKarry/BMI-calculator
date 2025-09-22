@@ -18,3 +18,28 @@ A tiny web app that calculates adult Body Mass Index (BMI) from metric or imperi
 pip install -r requirements.txt
 3) Start the app:
 streamlit run app.py
+
+## 📐 Formulas
+- Metric: BMI = kg / (m^2)  
+- Imperial: BMI = (lb × 703) / (in^2)
+
+## 🧭 Adult categories
+- Underweight: < 18.5  
+- Healthy weight: 18.5–24.9  
+- Overweight: 25–29.9  
+- Obesity (Class I): 30–34.9  
+- Obesity (Class II): 35–39.9  
+- Obesity (Class III): ≥ 40
+
+## 🗂️ Project structure
+.
+├── app.py
+├── requirements.txt
+├── README.md
+└── assets/
+└── screenshot.png
+
+## 🛠️ Notes
+- Edit `app.py` while the app runs; the browser refreshes on save.
+- Keep your virtual environment out of version control via `.gitignore` (e.g., `.venv/`, `venv/`).
+
